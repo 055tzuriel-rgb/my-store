@@ -1,0 +1,9 @@
+{
+  "/etc/issue.net": "Ubuntu 22.04.5 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--create-metadata"
+  ],
+  "startTimestamp": 1772780678000,
+  "subcommand": "update"
+}
