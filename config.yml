@@ -1,9 +1,0 @@
-repo_url: https://055tzuriel-rgb.github.io/my-store/repo
-repo_name: חנות כשר
-repo_description: חנות אפליקציות כשרות לפיקסל 7a
-repo_keyalias: kosher
-keystore: /home/tzuriel/Pixel7a_KOSHER/kosher.keystore
-keystorepass: kosher123
-keypass: kosher123
-keydname: CN=kosher, OU=kosher
-sdk_path: /usr/lib/android-sdk
