@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository name="HaEsh Sheli Store">
+  <applications>
+    <application>
+        <id>14</id>
+        <name>APKUpdater</name>
+        <versionCode>52</versionCode>
+        <versionName>0.0.586</versionName>
+        <apkname>APKUpdater.apk</apkname>
+    </application>
+    <application>
+        <id>15</id>
+        <name>F-Droid</name>
+        <versionCode>1023051</versionCode>
+        <versionName>1.23.1</versionName>
+        <apkname>KosherStore.apk</apkname>
+    </application>
+    <application>
+        <id>15</id>
+        <name>F-Droid</name>
+        <versionCode>1023051</versionCode>
+        <versionName>1.23.1</versionName>
+        <apkname>KosherStore_modified.apk</apkname>
+    </application>
+    <application>
+        <id>16</id>
+        <name>Gallery</name>
+        <versionCode>28</versionCode>
+        <versionName>1.13.1</versionName>
+        <apkname>gallery.apk</apkname>
+    </application>
+  </applications>
+</repository>
