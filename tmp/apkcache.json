@@ -1,0 +1,77 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "APKUpdater.apk": {
+    "hash": "049cda251f6188da283d27435f14f30a7c946d6f2f185acb37b89a952e14d4d8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.apkupdater.ci.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.apkupdater.ci",
+    "versionCode": 52,
+    "name": "APKUpdater",
+    "versionName": "0.0.586",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "sig": "0d0a22bbc6968c46f712d4f9c16e6359",
+    "signer": "7294a15b12efb0ffe7d6f29f9a032329a681a05a5730309cc6f9bf387764b559",
+    "size": 3750178,
+    "apkName": "APKUpdater.apk",
+    "added": 1773069398.658446
+  },
+  "update_repo.sh": {
+    "name": "update_repo",
+    "apkName": "update_repo.sh",
+    "hash": "2c920776b9b5d2d33dc8a5771a38ace1567498e5e2bd1b174f5511e7527422a8",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "2c92077",
+    "packageName": "2c920776b9b5d2d33dc8a5771a38ace1567498e5e2bd1b174f5511e7527422a8",
+    "size": 1231,
+    "added": 1773069398.67195
+  }
+}

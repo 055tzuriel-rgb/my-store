@@ -1,9 +1,35 @@
 {
   "/etc/issue.net": "Ubuntu 22.04.5 LTS",
   "commandLine": [
-    "/usr/bin/fdroid update",
-    "--create-metadata"
+    "/usr/bin/fdroid update"
   ],
-  "startTimestamp": 1772784405000,
+  "fdroiddata": {
+    "commitId": "05808ad2f5cc7e919f22ad06497d19d2eab964e4",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/KosherStore.apk",
+      "repo/KosherStore_modified.apk",
+      "repo/categories.txt",
+      "repo/gallery.apk",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json"
+    ],
+    "untrackedFiles": [
+      "archive/KosherStore_modified.apk",
+      "config.yml",
+      "keystore.p12",
+      "metadata/2c920776b9b5d2d33dc8a5771a38ace1567498e5e2bd1b174f5511e7527422a8.yml",
+      "metadata/com.apkupdater.ci.yml",
+      "repo/icons/icon.png",
+      "tmp/apkcache.json"
+    ]
+  },
+  "startTimestamp": 1773069411000,
   "subcommand": "update"
 }
