@@ -72,6 +72,81 @@
     "versionName": "2c92077",
     "packageName": "2c920776b9b5d2d33dc8a5771a38ace1567498e5e2bd1b174f5511e7527422a8",
     "size": 1231,
-    "added": 1773069398.67195
+    "added": 1773082779.807436
+  },
+  "KosherTube.apk": {
+    "hash": "68835df6c47e4e85041bfb70b557c167e1a547d40c2cf57114269389de1ea977",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.kosher.tube.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.kosher.tube",
+    "versionCode": 66,
+    "name": "KosherTube",
+    "versionName": "4.2.6",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "584942c680402d2d59a930267bb685f2",
+    "signer": "46825ab8d1d27e040a5702a58084402a88faebd9e81849dceb727c9dbcc76bfe",
+    "size": 29501347,
+    "apkName": "KosherTube.apk",
+    "added": 1773082779.785406
   }
 }
